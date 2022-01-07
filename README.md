@@ -18,7 +18,7 @@ To start the robot:  <br>
 2. in another terminal run rosrun crane_x7_examples pick_and_place.py (the script needs to be placed inside crane_x7_examples/scripts to work with this command)
 
 
-Links for all the resources used
+Links for all the resources used <br>
 https://robots.ros.org/crane-x7/ <br>
 https://github.com/rt-net/crane_x7_ros <br>
 
