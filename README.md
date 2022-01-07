@@ -13,6 +13,13 @@ initially are placed at different coordinates. The robot should pick one cube fr
 location and place it to a fixed location defined in the script then repeat the task for the
 second one.
 
+To start the robot:  <br>
+1. run in a terminal roslaunch crane_x7_gazebo crane_x7_with_table.launch
+2. in another terminal run rosrun crane_x7_examples pick_and_place.py (the script needs to be placed inside crane_x7_examples/scripts to work with this command)
+
+
 Links for all the resources used
-https://robots.ros.org/crane-x7/
-https://github.com/rt-net/crane_x7_ros
+https://robots.ros.org/crane-x7/ <br>
+https://github.com/rt-net/crane_x7_ros <br>
+
+
